@@ -23,6 +23,10 @@ This app is meant to be used by doctors and nurses when having a vaccine appoint
   * Hospital
   * The type of vaccine
 
+#### Data Model
+
+     TBA
+
 ### [Medical Health - Patient](https://github.com/blackbelt-cda/MedicalHealth-Patient)
 
 #### Purpose
@@ -41,8 +45,9 @@ This app is meant to be used by patients or parents to keep track of vaccine car
   * Vaccine data table
   * User QR Code (Definitive)
 
+#### Data Model
 
-
+     TBA
 
 ```
    Copyright 2018 Braulio and Kiffen
