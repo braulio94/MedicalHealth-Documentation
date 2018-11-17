@@ -1,4 +1,4 @@
-# Medical Health - Cartão de Vacinas
+# Medical Health - Vaccine Card
 
 This file describes **Medical Health** a project that is devided into two separate apps each one with their functionality and developed using different approaches.
 
